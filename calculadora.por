@@ -2,7 +2,7 @@ programa {
 	funcao inicio() {
 		// Estrutura inicial
 		inteiro numero1, numero2, soma
-		
+		// Estrutura da soma
 		escreva("Digite o primeiro número: ")
 		leia(numero1)
 		
