@@ -1,5 +1,6 @@
 programa {
 	funcao inicio() {
+		// Estrutura inicial
 		inteiro numero1, numero2, soma
 		
 		escreva("Digite o primeiro número: ")
